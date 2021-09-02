@@ -1,0 +1,50 @@
+.line_1{
+    display: flex;
+}
+.line_2{
+    display: flex;
+}
+.line_3{
+    display: flex;
+}
+.line_4{
+    display: flex;
+}
+.line_5{
+    display: flex;
+}
+.line_6{
+    display: flex;
+}
+.line_7{
+    display: flex;
+}
+.line_8{
+    display: flex;
+}
+.line_9{
+    display: flex;
+}
+.line_10{
+    display: flex;
+}
+.white_cell{
+    background: white;
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+}
+.black_cell{
+    background: black;
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.menu{
+    background: white;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    border: 1px solid black;
+}
